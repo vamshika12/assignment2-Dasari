@@ -1,2 +1,3 @@
 # Vamshika Dasari
 I am from most popular country in the world that is INDIA. I am Ambivert and want to be independent. Happiness looks gergeous on me. I love photography and travelling. I like chocolates and pizza.I came to USA for my master's.
+![link](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fghk.h-cdn.co%2Fassets%2F16%2F24%2F1466195160-snow-white.jpg%3Fcrop%3D1xw%3A0.9996358339402768xh%3Bcenter%2Ctop%26resize%3D480%3A*&imgrefurl=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fentertainment%2Fg3647%2Fcelebrities-dressed-like-disney-princesses%2F&tbnid=ncqragQNyBX7uM&vet=12ahUKEwiFiIHN3vL8AhW86MkDHfnpA44QMygbegUIARCgAg..i&docid=A1hMqVILnciBMM&w=480&h=720&q=princess&ved=2ahUKEwiFiIHN3vL8AhW86MkDHfnpA44QMygbegUIARCgAg)
