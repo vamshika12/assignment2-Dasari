@@ -1,7 +1,7 @@
 # assignment2-Dasari
 # Vamshika Dasari
 ###### I love volley ball
-I love to play **volley ball** because enjoying by **playing** it.
+I love to play **Volley ball** because enjoying by **Playing** it.
 
 ****
 
