@@ -7,6 +7,6 @@ I love to play **volley ball** because enjoying by **playing** it.
 
 # Volley Ball
 
-Gimmy Geogre
-Nirmala Saini
-K.J.Kapil Dev
+1. Gimmy Geogre
+1. Nirmala Saini
+1. K.J.Kapil Dev
