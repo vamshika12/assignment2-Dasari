@@ -13,3 +13,11 @@ I am from most popular country in the world that is INDIA. I am Ambivert and wan
 |Maldives        |For best snorkelling and diving| 10-15days         |
 |America         |To experience culture          | 1 month           |
 |Indonesia       |Beaches and magical temples    | 20 days           |
+
+********
+
+# Quotes
+
+> Even in hard times there's a possibility to have fun. _Vamshika_
+
+> Live for today and let tomorrow come later. _Vamshika_
