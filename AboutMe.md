@@ -22,3 +22,48 @@ I am from most popular country in the world that is INDIA. I am Ambivert and wan
 
 > Live for today and let tomorrow come later. _Vamshika_
 
+*******
+
+> SVG Patterns
+> I'm trying to discover the way to scale svg patterns so that the pattern is not cut by the bounds of the element using it. And yet so that pattern is beeing repeated to cover that element.Let's say i have a 20px radius circle as a pattern. Applying it to 80px width element:
+
+```php
+
+<svg style='display: block; height: 60px; width: 95px; '>
+    <defs>
+        <pattern patternUnits='userSpaceOnUse' viewBox='0 0 20 20' width='20'  height='20' id='the_pattern'>
+            <circle cx='10' cy='10' r='10' stroke-width='0' fill='black'></circle>
+        </pattern>
+    </defs>
+
+    <rect x='0' y='0' width='80' height='20' fill='url(#the_pattern)'></rect>
+    <rect x='0' y='20' width='90' height='20' fill='url(#the_pattern)'></rect>
+    <rect x='0' y='40' width='95' height='20' fill='url(#the_pattern)'></rect>
+
+</svg>
+
+```
+>Answer
+
+```php
+.circle-border {
+  border-top: 30px solid;
+  border-image: url('https://interactive-examples.mdn.mozilla.net/media/examples/border-diamonds.png') 30 / 20px 0 0 0;
+  border-image-repeat: round;
+}
+
+div {
+  width: 80px;
+  height: 0px;
+  margin-bottom: 50px;
+}
+
+div:nth-child(2) {
+  width: 90px;
+}
+
+div:nth-child(3) {
+  width: 100px;
+}
+
+```
