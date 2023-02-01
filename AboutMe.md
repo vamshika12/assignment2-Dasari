@@ -25,7 +25,6 @@ I am from most popular country in the world that is INDIA. I am Ambivert and wan
 *******
 
 > SVG Patterns
-> I'm trying to discover the way to scale svg patterns so that the pattern is not cut by the bounds of the element using it. And yet so that pattern is beeing repeated to cover that element.Let's say i have a 20px radius circle as a pattern. Applying it to 80px width element:
 
 ```php
 
@@ -42,28 +41,6 @@ I am from most popular country in the world that is INDIA. I am Ambivert and wan
 
 </svg>
 
-```
->Answer
-
-```php
-.circle-border {
-  border-top: 30px solid;
-  border-image: url('https://interactive-examples.mdn.mozilla.net/media/examples/border-diamonds.png') 30 / 20px 0 0 0;
-  border-image-repeat: round;
-}
-
-div {
-  width: 80px;
-  height: 0px;
-  margin-bottom: 50px;
-}
-
-div:nth-child(2) {
-  width: 90px;
-}
-
-div:nth-child(3) {
-  width: 100px;
-}
+![link](https://css-tricks.com/snippets/svg/svg-patterns/)
 
 ```
